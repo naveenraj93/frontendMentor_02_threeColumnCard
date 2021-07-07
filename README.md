@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Gihub](https://github.com/naveenraj93/frontendMentor_02_threeColumnCard)
+- Live Site URL: [Demo](https://naveenraj93.github.io/Projects/ThreeColumnPreviewCard/)
 
 ## My process
 
